@@ -1,6 +1,6 @@
 # Backtracking-algorithms
 STATEMENT:
-To implement 16-puzzle program using Backtracking
+To implement 8-puzzle program using Backtracking
 
 EXPLANATION:
 Backtracking is an algorithm technique for solving problem recursively by trying to build a solution incrementally,one piece at a time removing those solutions that fail to satisfy the constraints of the problem at any point of time(by time, here, is referred to the time elapsed till reaching any search tree).
